@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @miguelmoreno23
-- 👀 I’m interested in AI and machine learning and general software deelopment.
-- 🌱 I recentely graduated with a BS in Computer Science.
+- 👀 I’m interested in AI and machine learning.
+- 🌱 Currently pursuing a Computer Science PhD on Natural Language Processing.
 - 📫 How to reach me morenomiguel423@gmail.com or morenoriveramiguel@yahoo.es
 
 <!---
