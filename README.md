@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @miguelmoreno23
 - 👀 I’m interested in AI and machine learning.
-- 🌱 Currently pursuing a Computer Science PhD on Natural Language Processing.
+- 🌱 Currently pursuing a Computer Science PhD focusing on Natural Language Processing.
 - 📫 How to reach me morenomiguel423@gmail.com or morenoriveramiguel@yahoo.es
 
 <!---
